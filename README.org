@@ -1,0 +1,10 @@
+* ratmath
+
+Utilities for Rational Numbers in Common Lisp (rational approximations and interval arithmetic)  Available in quicklisp (ql:quickload :ratmath)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jesseoff/ratmath.git   |
+| commit  | 3e3d74d  |
+| systems | ratmath |
+|---------+-------------------------------------------|
+
