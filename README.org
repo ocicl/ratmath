@@ -8,4 +8,4 @@ Utilities for Rational Numbers in Common Lisp (rational approximations and inter
 | systems | ratmath |
 |---------+-------------------------------------------|
 
- 
+  
